@@ -14,10 +14,6 @@ URL;TYPE=Digital Business Card:https://qr-card.github.io/karaganda-sarkyt/
 URL;TYPE=Telegram:https://t.me/karaganda-sarkyt
 URL;TYPE=WhatsApp:https://wa.me/77074505054
 URL;TYPE=Instagram:https://instagram.com/karaganda-sarkyt
-TEL;TYPE=CELL,WHATSAPP;VALUE=uri:tel:+77074505054
-URL:https://wa.me/77074505054
-IMPP:telegram:@username
-URL:https://t.me/username
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Оптовая и розничная продажа в Караганде
 UID:100847259
