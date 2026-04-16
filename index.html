@@ -721,10 +721,9 @@
         }
       }
 
-      /* Fade out анимация */
       .preloader.hide {
         opacity: 0;
-        pointer-events: none; /* чтобы после исчезновения не мешал кликам */
+        pointer-events: none;
       }
     </style>
 
@@ -735,7 +734,6 @@
         setTimeout(() => {
           preloader.classList.add("hide");
 
-          // Удаляем прелоадер из DOM после завершения анимации
           setTimeout(() => {
             preloader.remove();
           }, 900);
